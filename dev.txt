@@ -1,0 +1,5 @@
+hello
+ubuntu
+test master and dev update the same time
+practise make perfect
+dev pull to remote
